@@ -8,7 +8,7 @@ Developer) at the National Disaster Management Authority (NDMA)**, developing GI
 disaster management. I have a Bachelor of Science in Space Sciences from the Institute of Space
 Technology, Islamabad.
 
-🌐 **[Visit my portfolio website](https://marbab-boby.github.io/marbabtahir-portfolio/)** · 📄 **[Download my CV](Muhammad_Arbab_Tahir_CV.pdf)**
+🌐 **[Visit my portfolio website](https://marbab-boby.github.io/portfolio/)** · 📄 **[Download my CV](Muhammad_Arbab_Tahir_CV.pdf)**
 
 ## 💼 Experience
 
