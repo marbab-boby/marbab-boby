@@ -34,7 +34,7 @@ geospatial data.
 | [**south-asia-monsoon-circulation**](https://github.com/marbab-boby/south-asia-monsoon-circulation) | Summer vs. winter monsoon winds, temperature and geopotential height over South Asia, mapped in GrADS |
 | [**matlab-vector-calculus**](https://github.com/marbab-boby/matlab-vector-calculus) | MATLAB scripts for gradient, divergence and curl, including an electric field model of a charged shell |
 | [**windows-tools**](https://github.com/marbab-boby/windows-tools) | 8 no-install Windows tools: batch rename with undo, duplicate finder, file shrinking, photos to video, voice-overs and more |
-| [**Portfolio website**](https://github.com/marbab-boby/marbabtahir-portfolio) | My portfolio site (HTML, CSS, JS): experience, projects, skills and CV · [visit site](https://marbab-boby.github.io/marbabtahir-portfolio/) |
+| [**Portfolio website**](https://github.com/marbab-boby/marbabtahir-portfolio) | My portfolio site (HTML, CSS, JS): experience, projects, skills and CV · [visit site](https://marbab-boby.github.io/portfolio/) |
 
 ## 🔬 Research & other work
 - **Weather model verification (PMD):** compared ECMWF, GFS and ICON forecasts with observed data
@@ -61,4 +61,4 @@ geospatial data.
 - 🥉 Bronze Honor, International Youth Math Challenge (2021)
 
 ## 📫 Get in touch
-[Portfolio](https://marbab-boby.github.io/marbabtahir-portfolio/) · [LinkedIn](https://www.linkedin.com/in/marbab-boby) · [arbabtahir7865@gmail.com](mailto:arbabtahir7865@gmail.com)
+[Portfolio](https://marbab-boby.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/marbab-boby) · [arbabtahir7865@gmail.com](mailto:arbabtahir7865@gmail.com)
